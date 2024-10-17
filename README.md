@@ -1,7 +1,5 @@
 # Opa eai! Eu sou o Gustavo Benjamin 😄
 
-Apaixonado por tecnologia, sou formado no curso técnico de formação profissonal em Desenvolvimento de Sistemas na instituição Senai Suiço Brasileiro. Atualmente estou cursando superior em Ciência de Dados na Escola SENAI de informática, procuro oportunidade de emprego na área de TI enquanto estudo e aprimoro minhas habilidades com tecnologias como NextJs, React Native, Javascript, Python e SQL. 🔭
-
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-benjamin/)
 
 ![gu-benjamin GitHub stats](https://github-readme-stats.vercel.app/api?username=gu-benjamin&show_icons=true&theme=transparent)
